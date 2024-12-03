@@ -1,0 +1,1528 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\DoanSQL\\DAL\\HangHoa_DAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\appforadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\appforadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\appforadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\appforadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dal\\khachhang_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|solutionrelative:dal\\khachhang_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\frmnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\frmnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E46C67-8447-4128-93EE-2EA1CC738006}|DTO\\DTO.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dto\\nguyenlieu_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E46C67-8447-4128-93EE-2EA1CC738006}|DTO\\DTO.csproj|solutionrelative:dto\\nguyenlieu_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|d:\\h\u1ECDc t\u1EADp\\ontap_sql\\hqtcsdl_tuan12_1\\hqtcsdl_tuan13_5\\tuan14_dean_banmatkinh\\doansql\\bll\\khachhang_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|solutionrelative:bll\\khachhang_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\nguyenlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\nguyenlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\nguyenlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\nguyenlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dal\\khachhangview_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|solutionrelative:dal\\khachhangview_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|d:\\h\u1ECDc t\u1EADp\\ontap_sql\\hqtcsdl_tuan12_1\\hqtcsdl_tuan13_5\\tuan14_dean_banmatkinh\\doansql\\dean_sql\\frmnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\frmnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\frmphanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\frmphanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\appforadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\appforadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\frmthongke.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\frmthongke.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dal\\hanghoa_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|solutionrelative:dal\\hanghoa_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\bll\\hanghoa_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|solutionrelative:bll\\hanghoa_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dal\\nguyenlieu_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|solutionrelative:dal\\nguyenlieu_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\bll\\banhang_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|solutionrelative:bll\\banhang_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dal\\phanquyen_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|solutionrelative:dal\\phanquyen_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\frmphanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\frmphanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\khachhangview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\khachhangview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\khachhangview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\khachhangview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\nhanvienview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\nhanvienview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\nhanvienview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\nhanvienview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dal\\nhanvien_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|solutionrelative:dal\\nhanvien_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\DoanSQL\\DAL\\KhachHangView_DAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\workwithdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\workwithdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\workwithdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\workwithdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\chamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\chamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\chamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\chamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\frmprintpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\frmprintpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E46C67-8447-4128-93EE-2EA1CC738006}|DTO\\DTO.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dto\\banhang_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E46C67-8447-4128-93EE-2EA1CC738006}|DTO\\DTO.csproj|solutionrelative:dto\\banhang_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dal\\lichtruc_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|solutionrelative:dal\\lichtruc_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dal\\lichca_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|solutionrelative:dal\\lichca_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dal\\khuyenmai_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|solutionrelative:dal\\khuyenmai_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dal\\dbconect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|solutionrelative:dal\\dbconect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dal\\chitietkhuyenmai_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|solutionrelative:dal\\chitietkhuyenmai_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\nhacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\nhacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\loaihang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\loaihang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\lichca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\lichca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\hoadonview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\hoadonview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\chitietpn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\chitietpn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\chitietkhuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\chitietkhuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\tinhluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\tinhluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\tinhluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\tinhluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\thongtinnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\thongtinnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\thongtinnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\thongtinnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\nhacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\nhacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\loaihang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\loaihang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\lichtruc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\lichtruc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\lichtruc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\lichtruc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\lichca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\lichca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\khuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\khuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\khuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\khuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\hoadonview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\hoadonview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\chitietpn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\chitietpn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\chitietkhuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\chitietkhuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E46C67-8447-4128-93EE-2EA1CC738006}|DTO\\DTO.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dto\\chitiethoadon_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E46C67-8447-4128-93EE-2EA1CC738006}|DTO\\DTO.csproj|solutionrelative:dto\\chitiethoadon_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\ChiTietKhuyenMai_DAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\KhuyenMai_DAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\KhachHangView_DAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\NhaCungCap_DAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dean_sql\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dal\\signup_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|solutionrelative:dal\\signup_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\NguyenLieu_DAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\PhieuNhap_DAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\bll\\khachhangview_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|solutionrelative:bll\\khachhangview_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E46C67-8447-4128-93EE-2EA1CC738006}|DTO\\DTO.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dto\\chamcong_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E46C67-8447-4128-93EE-2EA1CC738006}|DTO\\DTO.csproj|solutionrelative:dto\\chamcong_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E46C67-8447-4128-93EE-2EA1CC738006}|DTO\\DTO.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dto\\khachhang_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E46C67-8447-4128-93EE-2EA1CC738006}|DTO\\DTO.csproj|solutionrelative:dto\\khachhang_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E46C67-8447-4128-93EE-2EA1CC738006}|DTO\\DTO.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dto\\nhanvien_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E46C67-8447-4128-93EE-2EA1CC738006}|DTO\\DTO.csproj|solutionrelative:dto\\nhanvien_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E46C67-8447-4128-93EE-2EA1CC738006}|DTO\\DTO.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dto\\hanghoa_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E46C67-8447-4128-93EE-2EA1CC738006}|DTO\\DTO.csproj|solutionrelative:dto\\hanghoa_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E46C67-8447-4128-93EE-2EA1CC738006}|DTO\\DTO.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dto\\chitietpn_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E46C67-8447-4128-93EE-2EA1CC738006}|DTO\\DTO.csproj|solutionrelative:dto\\chitietpn_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\bll\\khuyenmai_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|solutionrelative:bll\\khuyenmai_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\bll\\chitietkhuyenmai_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|solutionrelative:bll\\chitietkhuyenmai_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dal\\banhang_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|solutionrelative:dal\\banhang_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\dal\\tinhluong_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|solutionrelative:dal\\tinhluong_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\bll\\tinhluong_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|solutionrelative:bll\\tinhluong_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\bll\\nguyenlieu_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|solutionrelative:bll\\nguyenlieu_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HangHoa_DAL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\HangHoa_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\HangHoa_DAL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\HangHoa_DAL.cs",
+              "RelativeToolTip": "DAL\\HangHoa_DAL.cs",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAlwMYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:03:35.846Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HangHoa_BLL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\BLL\\HangHoa_BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\HangHoa_BLL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\BLL\\HangHoa_BLL.cs",
+              "RelativeToolTip": "BLL\\HangHoa_BLL.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAUwF4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:03:56.257Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "HangHoa_DTO.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DTO\\HangHoa_DTO.cs",
+              "RelativeDocumentMoniker": "DTO\\HangHoa_DTO.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DTO\\HangHoa_DTO.cs",
+              "RelativeToolTip": "DTO\\HangHoa_DTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:04:12.292Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HangHoa.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\HangHoa.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\HangHoa.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\HangHoa.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\HangHoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:04:21.489Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\HangHoa.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\HangHoa.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\HangHoa.cs",
+              "RelativeToolTip": "DEAN_SQL\\HangHoa.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAlwDUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:04:24.309Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NguyenLieu_DAL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\NguyenLieu_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\NguyenLieu_DAL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\NguyenLieu_DAL.cs",
+              "RelativeToolTip": "DAL\\NguyenLieu_DAL.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwE4AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:05:31.116Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "NguyenLieu_BLL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\BLL\\NguyenLieu_BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\NguyenLieu_BLL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\BLL\\NguyenLieu_BLL.cs",
+              "RelativeToolTip": "BLL\\NguyenLieu_BLL.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAADwv0oAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:04:54.538Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NguyenLieu_DTO.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DTO\\NguyenLieu_DTO.cs",
+              "RelativeDocumentMoniker": "DTO\\NguyenLieu_DTO.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DTO\\NguyenLieu_DTO.cs",
+              "RelativeToolTip": "DTO\\NguyenLieu_DTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:05:56.887Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NguyenLieu.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\NguyenLieu.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\NguyenLieu.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\NguyenLieu.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\NguyenLieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:06:42.216Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NguyenLieu.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\NguyenLieu.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\NguyenLieu.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\NguyenLieu.cs",
+              "RelativeToolTip": "DEAN_SQL\\NguyenLieu.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAIAwwDEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:07:05.749Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppForAdmin.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\AppForAdmin.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\AppForAdmin.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\AppForAdmin.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\AppForAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:08:49.808Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppForAdmin.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\AppForAdmin.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\AppForAdmin.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\AppForAdmin.cs",
+              "RelativeToolTip": "DEAN_SQL\\AppForAdmin.cs",
+              "ViewState": "AQIAAPcAAAAAAAAAAAAlwAMBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:09:53.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KhachHang_DAL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\KhachHang_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\KhachHang_DAL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\KhachHang_DAL.cs",
+              "RelativeToolTip": "DAL\\KhachHang_DAL.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:50:48.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\frmThongKe.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\frmThongKe.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\frmThongKe.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\frmThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T00:40:58.943Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmThongKe.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\frmThongKe.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\frmThongKe.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\frmThongKe.cs",
+              "RelativeToolTip": "DEAN_SQL\\frmThongKe.cs",
+              "ViewState": "AQIAAB8CAAAAAAAAAAAwwB8CAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T00:42:22.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KhachHang_BLL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\BLL\\KhachHang_BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\KhachHang_BLL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\BLL\\KhachHang_BLL.cs",
+              "RelativeToolTip": "BLL\\KhachHang_BLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:09:41.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HangHoa_DAL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\DoanSQL\\DAL\\HangHoa_DAL.cs",
+              "RelativeDocumentMoniker": "..\\..\\DoanSQL\\DAL\\HangHoa_DAL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\DoanSQL\\DAL\\HangHoa_DAL.cs",
+              "RelativeToolTip": "..\\..\\DoanSQL\\DAL\\HangHoa_DAL.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAqwLoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:19:44.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmNhapHang.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\frmNhapHang.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\frmNhapHang.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\frmNhapHang.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\frmNhapHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:48:00.74Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KhachHangView_DAL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\KhachHangView_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\KhachHangView_DAL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\KhachHangView_DAL.cs",
+              "RelativeToolTip": "DAL\\KhachHangView_DAL.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAWwKkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:25:46.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmNhapHang.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\frmNhapHang.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\frmNhapHang.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\frmNhapHang.cs",
+              "RelativeToolTip": "DEAN_SQL\\frmNhapHang.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAawMYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:48:02.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmPhanQuyen.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\frmPhanQuyen.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\frmPhanQuyen.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\frmPhanQuyen.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\frmPhanQuyen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:54:09.172Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppForAdmin.Designer.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\AppForAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\AppForAdmin.Designer.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\AppForAdmin.Designer.cs",
+              "RelativeToolTip": "DEAN_SQL\\AppForAdmin.Designer.cs",
+              "ViewState": "AQIAAJAEAAAAAAAAAAAAAKQEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T00:43:47.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmThongKe.Designer.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\frmThongKe.Designer.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\frmThongKe.Designer.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\frmThongKe.Designer.cs",
+              "RelativeToolTip": "DEAN_SQL\\frmThongKe.Designer.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAYwEUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T00:43:40.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PhanQuyen_DAL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\PhanQuyen_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\PhanQuyen_DAL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\PhanQuyen_DAL.cs",
+              "RelativeToolTip": "DAL\\PhanQuyen_DAL.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwDsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:03:31.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BanHang_BLL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\BLL\\BanHang_BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\BanHang_BLL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\BLL\\BanHang_BLL.cs",
+              "RelativeToolTip": "BLL\\BanHang_BLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:40:23.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "KhachHangView.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\KhachHangView.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\KhachHangView.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\KhachHangView.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\KhachHangView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:33:58.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NhanVienView.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\NhanVienView.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\NhanVienView.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\NhanVienView.cs",
+              "RelativeToolTip": "DEAN_SQL\\NhanVienView.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAADwv1EAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:59:45.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmPhanQuyen.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\frmPhanQuyen.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\frmPhanQuyen.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\frmPhanQuyen.cs",
+              "RelativeToolTip": "DEAN_SQL\\frmPhanQuyen.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAwwC4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:02:26.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "KhachHangView.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\KhachHangView.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\KhachHangView.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\KhachHangView.cs",
+              "RelativeToolTip": "DEAN_SQL\\KhachHangView.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:33:59.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NhanVienView.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\NhanVienView.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\NhanVienView.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\NhanVienView.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\NhanVienView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:33:55.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\NhanVien.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\NhanVien.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\NhanVien.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\NhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:33:54.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NhanVien_DAL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\NhanVien_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\NhanVien_DAL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\NhanVien_DAL.cs",
+              "RelativeToolTip": "DAL\\NhanVien_DAL.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T07:56:37.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "KhachHangView_DAL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\DoanSQL\\DAL\\KhachHangView_DAL.cs",
+              "RelativeDocumentMoniker": "..\\..\\DoanSQL\\DAL\\KhachHangView_DAL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\DoanSQL\\DAL\\KhachHangView_DAL.cs",
+              "RelativeToolTip": "..\\..\\DoanSQL\\DAL\\KhachHangView_DAL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T07:44:00.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ChamCong.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\ChamCong.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\ChamCong.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\ChamCong.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\ChamCong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:40:52.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WorkWithData.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\WorkWithData.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\WorkWithData.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\WorkWithData.cs",
+              "RelativeToolTip": "DEAN_SQL\\WorkWithData.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAcwHMAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:47:07.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WorkWithData.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\WorkWithData.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\WorkWithData.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\WorkWithData.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\WorkWithData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:46:56.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CHITIETHOADON.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\CHITIETHOADON.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\CHITIETHOADON.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\CHITIETHOADON.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\CHITIETHOADON.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:47:41.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ChamCong.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\ChamCong.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\ChamCong.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\ChamCong.cs",
+              "RelativeToolTip": "DEAN_SQL\\ChamCong.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:46:38.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CHITIETHOADON.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\CHITIETHOADON.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\CHITIETHOADON.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\CHITIETHOADON.cs",
+              "RelativeToolTip": "DEAN_SQL\\CHITIETHOADON.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAIAwwG4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:51:48.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\HoaDon.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\HoaDon.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\HoaDon.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\HoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:55:42.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmPrintPreview.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\frmPrintPreview.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\frmPrintPreview.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\frmPrintPreview.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\frmPrintPreview.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:54:09.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PHIEUNHAP.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\PHIEUNHAP.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\PHIEUNHAP.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\PHIEUNHAP.cs",
+              "RelativeToolTip": "DEAN_SQL\\PHIEUNHAP.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAMwDgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:59:56.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PHIEUNHAP.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\PHIEUNHAP.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\PHIEUNHAP.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\PHIEUNHAP.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\PHIEUNHAP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:59:55.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "dbconect.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\dbconect.cs",
+              "RelativeDocumentMoniker": "DAL\\dbconect.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\dbconect.cs",
+              "RelativeToolTip": "DAL\\dbconect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:10:05.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LichCa_DAL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\LichCa_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\LichCa_DAL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\LichCa_DAL.cs",
+              "RelativeToolTip": "DAL\\LichCa_DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:10:08.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BanHang_DTO.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DTO\\BanHang_DTO.cs",
+              "RelativeDocumentMoniker": "DTO\\BanHang_DTO.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DTO\\BanHang_DTO.cs",
+              "RelativeToolTip": "DTO\\BanHang_DTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:10:12.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LichTruc_DAL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\LichTruc_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\LichTruc_DAL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\LichTruc_DAL.cs",
+              "RelativeToolTip": "DAL\\LichTruc_DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:10:09.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "KhuyenMai_DAL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\KhuyenMai_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\KhuyenMai_DAL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\KhuyenMai_DAL.cs",
+              "RelativeToolTip": "DAL\\KhuyenMai_DAL.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:55:59.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ChiTietKhuyenMai_DAL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\ChiTietKhuyenMai_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ChiTietKhuyenMai_DAL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\ChiTietKhuyenMai_DAL.cs",
+              "RelativeToolTip": "DAL\\ChiTietKhuyenMai_DAL.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:46:55.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "NHACC.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\NHACC.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\NHACC.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\NHACC.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\NHACC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:59:07.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\Login.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\Login.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\Login.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:11:25.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "LoaiHang.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\LoaiHang.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\LoaiHang.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\LoaiHang.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\LoaiHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:58:48.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LichCa.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\LichCa.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\LichCa.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\LichCa.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\LichCa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:38:36.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "KhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\KhachHang.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\KhachHang.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\KhachHang.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\KhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:50:32.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "HoaDonView.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\HoaDonView.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\HoaDonView.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\HoaDonView.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\HoaDonView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:56:14.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CHITIETPN.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\CHITIETPN.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\CHITIETPN.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\CHITIETPN.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\CHITIETPN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:53:13.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ChiTietKhuyenMai.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\ChiTietKhuyenMai.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\ChiTietKhuyenMai.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\ChiTietKhuyenMai.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\ChiTietKhuyenMai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:47:06.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "TinhLuong.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\TinhLuong.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\TinhLuong.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\TinhLuong.cs",
+              "RelativeToolTip": "DEAN_SQL\\TinhLuong.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAkwDcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:32:23.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "TinhLuong.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\TinhLuong.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\TinhLuong.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\TinhLuong.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\TinhLuong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:34:41.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ThongTinNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\ThongTinNhanVien.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\ThongTinNhanVien.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\ThongTinNhanVien.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\ThongTinNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:00:48.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ThongTinNhanVien.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\ThongTinNhanVien.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\ThongTinNhanVien.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\ThongTinNhanVien.cs",
+              "RelativeToolTip": "DEAN_SQL\\ThongTinNhanVien.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAlwEEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:00:49.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\NhanVien.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\NhanVien.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\NhanVien.cs",
+              "RelativeToolTip": "DEAN_SQL\\NhanVien.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAA9wC0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:59:33.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "NHACC.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\NHACC.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\NHACC.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\NHACC.cs",
+              "RelativeToolTip": "DEAN_SQL\\NHACC.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAwwEAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:59:18.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Signup.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\Signup.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\Signup.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\Signup.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\Signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:38:33.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "LoaiHang.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\LoaiHang.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\LoaiHang.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\LoaiHang.cs",
+              "RelativeToolTip": "DEAN_SQL\\LoaiHang.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAwwDQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:58:49.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "LichTruc.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\LichTruc.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\LichTruc.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\LichTruc.cs",
+              "RelativeToolTip": "DEAN_SQL\\LichTruc.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAEwKsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:58:08.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "LichCa.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\LichCa.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\LichCa.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\LichCa.cs",
+              "RelativeToolTip": "DEAN_SQL\\LichCa.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAvwIoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:57:50.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "KhuyenMai.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\KhuyenMai.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\KhuyenMai.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\KhuyenMai.cs",
+              "RelativeToolTip": "DEAN_SQL\\KhuyenMai.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAvwJIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:57:35.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "KhuyenMai.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\KhuyenMai.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\KhuyenMai.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\KhuyenMai.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\KhuyenMai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:57:34.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "LichTruc.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\LichTruc.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\LichTruc.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\LichTruc.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\LichTruc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:38:49.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\KhachHang.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\KhachHang.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\KhachHang.cs",
+              "RelativeToolTip": "DEAN_SQL\\KhachHang.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAawD0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:50:34.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "HoaDonView.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\HoaDonView.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\HoaDonView.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\HoaDonView.cs",
+              "RelativeToolTip": "DEAN_SQL\\HoaDonView.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAUwEUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:56:15.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\HoaDon.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\HoaDon.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\HoaDon.cs",
+              "RelativeToolTip": "DEAN_SQL\\HoaDon.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAAAcwEIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:55:43.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "CHITIETPN.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\CHITIETPN.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\CHITIETPN.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\CHITIETPN.cs",
+              "RelativeToolTip": "DEAN_SQL\\CHITIETPN.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAhwDYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:53:14.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ChiTietKhuyenMai.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\ChiTietKhuyenMai.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\ChiTietKhuyenMai.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\ChiTietKhuyenMai.cs",
+              "RelativeToolTip": "DEAN_SQL\\ChiTietKhuyenMai.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAhwG8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:47:07.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ChiTietKhuyenMai_DAL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\ChiTietKhuyenMai_DAL.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\ChiTietKhuyenMai_DAL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\ChiTietKhuyenMai_DAL.cs",
+              "RelativeToolTip": "..\\..\\..\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\ChiTietKhuyenMai_DAL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:54:27.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "App.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\App.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\App.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\App.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\App.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:46:25.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ChiTietHoaDon_DTO.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DTO\\ChiTietHoaDon_DTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ChiTietHoaDon_DTO.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DTO\\ChiTietHoaDon_DTO.cs",
+              "RelativeToolTip": "DTO\\ChiTietHoaDon_DTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:50:59.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "KhuyenMai_DAL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\KhuyenMai_DAL.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\KhuyenMai_DAL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\KhuyenMai_DAL.cs",
+              "RelativeToolTip": "..\\..\\..\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\KhuyenMai_DAL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:53:59.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Signup_DAL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\Signup_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Signup_DAL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\Signup_DAL.cs",
+              "RelativeToolTip": "DAL\\Signup_DAL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:48:59.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "NhaCungCap_DAL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\NhaCungCap_DAL.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\NhaCungCap_DAL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\NhaCungCap_DAL.cs",
+              "RelativeToolTip": "..\\..\\..\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\NhaCungCap_DAL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:45:36.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "KhachHangView_DAL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\KhachHangView_DAL.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\KhachHangView_DAL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\KhachHangView_DAL.cs",
+              "RelativeToolTip": "..\\..\\..\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\KhachHangView_DAL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:30:32.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\Signup.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\Signup.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DEAN_SQL\\Signup.cs",
+              "RelativeToolTip": "DEAN_SQL\\Signup.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAnwCUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:35:32.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "NguyenLieu_DAL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\NguyenLieu_DAL.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\NguyenLieu_DAL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\NguyenLieu_DAL.cs",
+              "RelativeToolTip": "..\\..\\..\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\NguyenLieu_DAL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:09:48.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "PhieuNhap_DAL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\PhieuNhap_DAL.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\PhieuNhap_DAL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\PhieuNhap_DAL.cs",
+              "RelativeToolTip": "..\\..\\..\\HQTCSDL_TUAN13_4\\DoanSQL\\DAL\\PhieuNhap_DAL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:46:53.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "KhachHangView_BLL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\BLL\\KhachHangView_BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\KhachHangView_BLL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\BLL\\KhachHangView_BLL.cs",
+              "RelativeToolTip": "BLL\\KhachHangView_BLL.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwCoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:29:37.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ChamCong_DTO.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DTO\\ChamCong_DTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ChamCong_DTO.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DTO\\ChamCong_DTO.cs",
+              "RelativeToolTip": "DTO\\ChamCong_DTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:50:59.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "NhanVien_DTO.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DTO\\NhanVien_DTO.cs",
+              "RelativeDocumentMoniker": "DTO\\NhanVien_DTO.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DTO\\NhanVien_DTO.cs",
+              "RelativeToolTip": "DTO\\NhanVien_DTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:51:01.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "KhachHang_DTO.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DTO\\KhachHang_DTO.cs",
+              "RelativeDocumentMoniker": "DTO\\KhachHang_DTO.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DTO\\KhachHang_DTO.cs",
+              "RelativeToolTip": "DTO\\KhachHang_DTO.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:27:02.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ChiTietPN_DTO.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DTO\\ChiTietPN_DTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ChiTietPN_DTO.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DTO\\ChiTietPN_DTO.cs",
+              "RelativeToolTip": "DTO\\ChiTietPN_DTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:51:00.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "KhuyenMai_BLL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\BLL\\KhuyenMai_BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\KhuyenMai_BLL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\BLL\\KhuyenMai_BLL.cs",
+              "RelativeToolTip": "BLL\\KhuyenMai_BLL.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:46:50.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ChiTietKhuyenMai_BLL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\BLL\\ChiTietKhuyenMai_BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\ChiTietKhuyenMai_BLL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\BLL\\ChiTietKhuyenMai_BLL.cs",
+              "RelativeToolTip": "BLL\\ChiTietKhuyenMai_BLL.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:46:41.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "BanHang_DAL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\BanHang_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\BanHang_DAL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\BanHang_DAL.cs",
+              "RelativeToolTip": "DAL\\BanHang_DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:40:29.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "TinhLuong_BLL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\BLL\\TinhLuong_BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\TinhLuong_BLL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\BLL\\TinhLuong_BLL.cs",
+              "RelativeToolTip": "BLL\\TinhLuong_BLL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:33:17.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "TinhLuong_DAL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\TinhLuong_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\TinhLuong_DAL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_Tuan12_1\\HQTCSDL_TUAN13_5\\TUAN14_DEAN_BANMATKINH\\DoanSQL\\DAL\\TinhLuong_DAL.cs",
+              "RelativeToolTip": "DAL\\TinhLuong_DAL.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAjwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:29:52.943Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
