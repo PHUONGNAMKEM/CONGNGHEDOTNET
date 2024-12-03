@@ -159,7 +159,7 @@
             // pictureBox6
             // 
             this.pictureBox6.Image = global::DEAN_SQL.Properties.Resources.cross;
-            this.pictureBox6.Location = new System.Drawing.Point(483, 160);
+            this.pictureBox6.Location = new System.Drawing.Point(506, 115);
             this.pictureBox6.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(59, 42);
@@ -170,7 +170,7 @@
             // pictureBox3
             // 
             this.pictureBox3.Image = global::DEAN_SQL.Properties.Resources.check__1_;
-            this.pictureBox3.Location = new System.Drawing.Point(237, 160);
+            this.pictureBox3.Location = new System.Drawing.Point(256, 115);
             this.pictureBox3.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(59, 42);
@@ -201,9 +201,9 @@
             this.btnhuy.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(247)))), ((int)(((byte)(72)))), ((int)(((byte)(80)))));
             this.btnhuy.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnhuy.ForeColor = System.Drawing.Color.White;
-            this.btnhuy.Location = new System.Drawing.Point(328, 160);
+            this.btnhuy.Location = new System.Drawing.Point(340, 115);
             this.btnhuy.Name = "btnhuy";
-            this.btnhuy.Size = new System.Drawing.Size(159, 42);
+            this.btnhuy.Size = new System.Drawing.Size(169, 42);
             this.btnhuy.TabIndex = 38;
             this.btnhuy.Text = "Hủy";
             this.btnhuy.UseVisualStyleBackColor = false;
@@ -214,9 +214,9 @@
             this.btnluuphieunhap.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(182)))), ((int)(((byte)(120)))));
             this.btnluuphieunhap.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnluuphieunhap.ForeColor = System.Drawing.Color.White;
-            this.btnluuphieunhap.Location = new System.Drawing.Point(82, 160);
+            this.btnluuphieunhap.Location = new System.Drawing.Point(78, 115);
             this.btnluuphieunhap.Name = "btnluuphieunhap";
-            this.btnluuphieunhap.Size = new System.Drawing.Size(159, 42);
+            this.btnluuphieunhap.Size = new System.Drawing.Size(179, 42);
             this.btnluuphieunhap.TabIndex = 37;
             this.btnluuphieunhap.Text = "Lưu phiếu nhập";
             this.btnluuphieunhap.UseVisualStyleBackColor = false;
@@ -295,10 +295,10 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::DEAN_SQL.Properties.Resources.check__1_;
-            this.pictureBox1.Location = new System.Drawing.Point(184, 160);
+            this.pictureBox1.Location = new System.Drawing.Point(208, 160);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(59, 42);
+            this.pictureBox1.Size = new System.Drawing.Size(67, 42);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 43;
             this.pictureBox1.TabStop = false;
@@ -311,6 +311,7 @@
             this.label1.Size = new System.Drawing.Size(142, 25);
             this.label1.TabIndex = 45;
             this.label1.Text = "Mã phiếu nhập";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // txtngaynhap
             // 
@@ -326,7 +327,7 @@
             this.btntaophieunhap.ForeColor = System.Drawing.Color.White;
             this.btntaophieunhap.Location = new System.Drawing.Point(25, 160);
             this.btntaophieunhap.Name = "btntaophieunhap";
-            this.btntaophieunhap.Size = new System.Drawing.Size(159, 42);
+            this.btntaophieunhap.Size = new System.Drawing.Size(186, 42);
             this.btntaophieunhap.TabIndex = 44;
             this.btntaophieunhap.Text = "Tạo phiếu nhập";
             this.btntaophieunhap.UseVisualStyleBackColor = false;
@@ -349,6 +350,7 @@
             this.label6.Size = new System.Drawing.Size(133, 25);
             this.label6.TabIndex = 0;
             this.label6.Text = "Nhà cung cấp";
+            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // flowLayoutPanelProducts
             // 

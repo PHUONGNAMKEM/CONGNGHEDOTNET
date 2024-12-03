@@ -42,7 +42,7 @@ namespace DEAN_SQL
                     }
                     else
                     {
-                        MessageBox.Show("Lổi-->" + kq + "", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        MessageBox.Show("Lỗi-->" + kq + "", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     }
                 }
                 catch (Exception ex)
@@ -93,7 +93,7 @@ namespace DEAN_SQL
                 }
                 else
                 {
-                    MessageBox.Show("Lổi-->" + kq + "", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Lỗi-->" + kq + "", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
             catch (Exception ex)
@@ -140,7 +140,7 @@ namespace DEAN_SQL
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Lổi-->" + ex.Message + "", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Lỗi-->" + ex.Message + "", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         
         }

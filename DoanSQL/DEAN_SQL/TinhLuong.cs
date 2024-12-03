@@ -51,7 +51,7 @@ namespace DEAN_SQL
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Lổi-->" + ex.Message + "", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Lỗi-->" + ex.Message + "", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             
         }

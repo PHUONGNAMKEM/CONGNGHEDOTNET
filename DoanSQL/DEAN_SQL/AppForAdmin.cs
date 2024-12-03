@@ -326,8 +326,141 @@ namespace DEAN_SQL
             }  
         
         }
-        
 
+
+        //private void LoadProducts()
+        //{
+        //    List<HangHoa_DTO> products;
+        //    flowLayoutPanelProducts.Controls.Clear();
+        //    // Giả sử có danh sách các sản phẩm
+        //    try
+        //    {
+        //        products = BLL_HH.display(); // Phương thức lấy danh sách sản phẩm.
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        MessageBox.Show("Lỗi-->" + ex.Message + "", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+        //        return;
+        //    }
+
+        //    // Thêm từng sản phẩm vào FlowLayoutPanel
+        //    foreach (var product in products)
+        //    {
+        //        Panel panel = new Panel
+        //        {
+        //            Size = new Size(150, 230), // Tăng chiều cao để chứa thêm thông tin số lượng
+        //            BorderStyle = BorderStyle.FixedSingle
+        //        };
+
+        //        // Thêm ảnh sản phẩm
+        //        string fileName = product.Hinh_P;
+        //        string projectDirectory = AppDomain.CurrentDomain.BaseDirectory;
+        //        projectDirectory = System.IO.Directory.GetParent(projectDirectory).Parent.Parent.FullName;
+        //        string imagePath = System.IO.Path.Combine(projectDirectory, "Images", fileName);
+
+        //        PictureBox pictureBox = new PictureBox
+        //        {
+        //            Size = new Size(150, 150),
+        //            Image = Image.FromFile(imagePath), // Đường dẫn ảnh sản phẩm
+        //            SizeMode = PictureBoxSizeMode.StretchImage
+        //        };
+
+        //        // Kiểm tra nếu sản phẩm có sẵn và không thể thêm vào giỏ
+        //        bool isOutOfStock = BLL_HH.sl_ton(int.Parse(product.MaHang_P)) == 0;
+
+        //        // Lớp phủ mờ khi hết hàng
+        //        if (isOutOfStock) // Nếu sản phẩm hết hàng
+        //        {
+        //            pictureBox.Enabled = false; // Tắt khả năng bấm vào ảnh
+        //            pictureBox.BackColor = System.Drawing.Color.Gray; // Đổi màu mờ cho ảnh
+
+        //            // Tạo lớp phủ mờ trên ảnh
+        //            Panel overlay = new Panel
+        //            {
+        //                Size = pictureBox.Size,
+        //                BackColor = System.Drawing.Color.FromArgb(128, System.Drawing.Color.Gray), // Màu xám với độ trong suốt (128) để tạo hiệu ứng mờ
+        //                Location = new Point(0, 0)
+        //            };
+        //            pictureBox.Controls.Add(overlay); // Thêm lớp phủ vào ảnh
+        //            pictureBox.Click += (sender, e) => MessageBox.Show("Sản phẩm này đã hết hàng.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information); // Hiển thị thông báo khi bấm vào
+        //        }
+        //        else
+        //        {
+        //            pictureBox.Click += (sender, e) => AddToInvoice(product); // Nếu có sẵn, bấm vào ảnh để thêm vào giỏ
+        //        }
+
+        //        panel.Controls.Add(pictureBox);
+
+        //        // Thêm tên sản phẩm
+        //        Label lblName = new Label
+        //        {
+        //            Text = product.TenHang_P,
+        //            AutoSize = true,
+        //            Location = new Point(10, 160)
+        //        };
+
+        //        if (isOutOfStock) // Nếu sản phẩm hết hàng
+        //        {
+        //            lblName.Enabled = false; // Tắt khả năng bấm vào tên sản phẩm
+        //            lblName.ForeColor = System.Drawing.Color.Gray; // Đổi màu chữ thành màu xám
+        //        }
+        //        else
+        //        {
+        //            lblName.Click += (sender, e) => AddToInvoice(product); // Nếu có sẵn, bấm vào tên để thêm vào giỏ
+        //        }
+
+        //        panel.Controls.Add(lblName);
+
+        //        // Thêm giá sản phẩm
+        //        Label lblPrice = new Label
+        //        {
+        //            Text = $"Giá: {product.DonGia_P:N0} đ",
+        //            AutoSize = true,
+        //            Location = new Point(10, 180)
+        //        };
+
+        //        if (isOutOfStock) // Nếu sản phẩm hết hàng
+        //        {
+        //            lblPrice.Enabled = false; // Tắt khả năng bấm vào giá
+        //            lblPrice.ForeColor = System.Drawing.Color.Gray; // Đổi màu chữ thành màu xám
+        //        }
+        //        else
+        //        {
+        //            lblPrice.Click += (sender, e) => AddToInvoice(product); // Nếu có sẵn, bấm vào giá để thêm vào giỏ
+        //        }
+
+        //        panel.Controls.Add(lblPrice);
+
+        //        // Thêm số lượng sản phẩm sẵn có
+        //        Label lblStock = new Label
+        //        {
+        //            Text = $"Sẵn có: {BLL_HH.sl_ton(int.Parse(product.MaHang_P)):N0}",
+        //            AutoSize = true,
+        //            ForeColor = isOutOfStock ? System.Drawing.Color.Gray : System.Drawing.Color.Green, // Đổi màu chữ thành xám nếu hết hàng
+        //            Location = new Point(80, 210),
+        //            Font = new System.Drawing.Font("Arial", 8, FontStyle.Regular), // Đặt kích thước chữ nhỏ hơn
+        //            Size = new Size(30, 10) // Kích thước nhỏ hơn
+        //        };
+
+        //        panel.Controls.Add(lblStock);
+
+        //        // Thêm sự kiện khi click vào panel (cũng cần phải vô hiệu hóa khi sản phẩm hết hàng)
+        //        panel.Click += (sender, e) =>
+        //        {
+        //            if (isOutOfStock)
+        //            {
+        //                MessageBox.Show("Sản phẩm này đã hết hàng.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        //            }
+        //            else
+        //            {
+        //                AddToInvoice(product); // Nếu có sẵn, bấm vào panel để thêm vào giỏ
+        //            }
+        //        };
+
+        //        // Thêm panel vào FlowLayoutPanel
+        //        flowLayoutPanelProducts.Controls.Add(panel);
+        //    }
+        //}
         private void LoadProducts()
         {
             List<HangHoa_DTO> products;
@@ -346,25 +479,53 @@ namespace DEAN_SQL
             // Thêm từng sản phẩm vào FlowLayoutPanel
             foreach (var product in products)
             {
-                Panel panel = new Panel
+                //Panel panel = new Panel
+                //{
+                //    Size = new Size(150, 230), // Tăng chiều cao để chứa thêm thông tin số lượng
+                //    BorderStyle = BorderStyle.FixedSingle
+                //};
+
+                // Tạo Guna2Panel  
+                Guna.UI2.WinForms.Guna2Panel panel = new Guna.UI2.WinForms.Guna2Panel
                 {
-                    Size = new Size(150, 230), // Tăng chiều cao để chứa thêm thông tin số lượng
-                    BorderStyle = BorderStyle.FixedSingle
+                    Size = new Size(150, 220), // Kích thước panel  
+                    FillColor = System.Drawing.Color.White, // Màu nền  
+                    BorderColor = System.Drawing.Color.FromArgb(204, 204, 204), // Màu viền  
+                    BorderRadius = 8,
+                    BorderThickness = 1, // Độ dày viền  
+                    Padding = new Padding(2), // Khoảng cách giữa nội dung và viền  
+                    Margin = new Padding(10), // Khoảng cách giữa các panel
+                                              //ShadowDecoration = { Enabled = true, Shadow = new System.Windows.Forms.Padding(5) } // Hiệu ứng bóng  
                 };
 
                 // Thêm ảnh sản phẩm
+                //string fileName = product.Hinh_P;
+                //string projectDirectory = AppDomain.CurrentDomain.BaseDirectory;
+                //projectDirectory = System.IO.Directory.GetParent(projectDirectory).Parent.Parent.FullName;
+                //string imagePath = System.IO.Path.Combine(projectDirectory, "Images", fileName);
+
                 string fileName = product.Hinh_P;
                 string projectDirectory = AppDomain.CurrentDomain.BaseDirectory;
                 projectDirectory = System.IO.Directory.GetParent(projectDirectory).Parent.Parent.FullName;
                 string imagePath = System.IO.Path.Combine(projectDirectory, "Images", fileName);
 
-                PictureBox pictureBox = new PictureBox
-                {
-                    Size = new Size(150, 150),
-                    Image = Image.FromFile(imagePath), // Đường dẫn ảnh sản phẩm
-                    SizeMode = PictureBoxSizeMode.StretchImage
-                };
 
+                //PictureBox pictureBox = new PictureBox
+                //{
+                //    Size = new Size(150, 150),
+                //    Image = Image.FromFile(imagePath), // Đường dẫn ảnh sản phẩm
+                //    SizeMode = PictureBoxSizeMode.StretchImage
+                //};
+
+                Guna.UI2.WinForms.Guna2PictureBox pictureBox = new Guna.UI2.WinForms.Guna2PictureBox
+                {
+                    Size = new Size(140, 140),
+                    Image = Image.FromFile(imagePath), // Đường dẫn ảnh sản phẩm  
+                    SizeMode = PictureBoxSizeMode.StretchImage,
+                    BorderRadius = 8,
+                    Location = new Point(5, 5), // Đặt vị trí của ảnh  
+                    BackColor = System.Drawing.Color.Transparent // Đặt nền trong suốt  
+                };
                 // Kiểm tra nếu sản phẩm có sẵn và không thể thêm vào giỏ
                 bool isOutOfStock = BLL_HH.sl_ton(int.Parse(product.MaHang_P)) == 0;
 
@@ -392,11 +553,19 @@ namespace DEAN_SQL
                 panel.Controls.Add(pictureBox);
 
                 // Thêm tên sản phẩm
-                Label lblName = new Label
+                //Label lblName = new Label
+                //{
+                //    Text = product.TenHang_P,
+                //    AutoSize = true,
+                //    Location = new Point(10, 160)
+                //};
+
+                Guna.UI2.WinForms.Guna2HtmlLabel lblName = new Guna.UI2.WinForms.Guna2HtmlLabel
                 {
                     Text = product.TenHang_P,
                     AutoSize = true,
-                    Location = new Point(10, 160)
+                    Location = new Point(10, 150),
+                    Font = new System.Drawing.Font("Arial", 10, System.Drawing.FontStyle.Bold) // Đặt font chữ  
                 };
 
                 if (isOutOfStock) // Nếu sản phẩm hết hàng
@@ -412,13 +581,20 @@ namespace DEAN_SQL
                 panel.Controls.Add(lblName);
 
                 // Thêm giá sản phẩm
-                Label lblPrice = new Label
+                //Label lblPrice = new Label
+                //{
+                //    Text = $"Giá: {product.DonGia_P:N0} đ",
+                //    AutoSize = true,
+                //    Location = new Point(10, 180)
+                //};
+
+                Guna.UI2.WinForms.Guna2HtmlLabel lblPrice = new Guna.UI2.WinForms.Guna2HtmlLabel
                 {
                     Text = $"Giá: {product.DonGia_P:N0} đ",
                     AutoSize = true,
-                    Location = new Point(10, 180)
+                    Location = new Point(10, 170),
+                    Font = new System.Drawing.Font("Arial", 9, System.Drawing.FontStyle.Regular) // Đặt kích thước chữ  
                 };
-
                 if (isOutOfStock) // Nếu sản phẩm hết hàng
                 {
                     lblPrice.Enabled = false; // Tắt khả năng bấm vào giá
@@ -432,14 +608,23 @@ namespace DEAN_SQL
                 panel.Controls.Add(lblPrice);
 
                 // Thêm số lượng sản phẩm sẵn có
-                Label lblStock = new Label
+                //Label lblStock = new Label
+                //{
+                //    Text = $"Sẵn có: {BLL_HH.sl_ton(int.Parse(product.MaHang_P)):N0}",
+                //    AutoSize = true,
+                //    ForeColor = isOutOfStock ? System.Drawing.Color.Gray : System.Drawing.Color.Green, // Đổi màu chữ thành xám nếu hết hàng
+                //    Location = new Point(80, 210),
+                //    Font = new System.Drawing.Font("Arial", 8, FontStyle.Regular), // Đặt kích thước chữ nhỏ hơn
+                //    Size = new Size(30, 10) // Kích thước nhỏ hơn
+                //};
+
+                Guna.UI2.WinForms.Guna2HtmlLabel lblStock = new Guna.UI2.WinForms.Guna2HtmlLabel
                 {
                     Text = $"Sẵn có: {BLL_HH.sl_ton(int.Parse(product.MaHang_P)):N0}",
                     AutoSize = true,
-                    ForeColor = isOutOfStock ? System.Drawing.Color.Gray : System.Drawing.Color.Green, // Đổi màu chữ thành xám nếu hết hàng
-                    Location = new Point(80, 210),
-                    Font = new System.Drawing.Font("Arial", 8, FontStyle.Regular), // Đặt kích thước chữ nhỏ hơn
-                    Size = new Size(30, 10) // Kích thước nhỏ hơn
+                    ForeColor = System.Drawing.Color.Green, // Đổi màu chữ để dễ nhìn  
+                    Location = new Point(10, 190),
+                    Font = new System.Drawing.Font("Arial", 8, System.Drawing.FontStyle.Bold) // Đặt kích thước chữ nhỏ hơn  
                 };
 
                 panel.Controls.Add(lblStock);
@@ -616,8 +801,7 @@ namespace DEAN_SQL
                     ShowInvoicePreview(maHoaDon, ngayLap);
                     InHoaDon(maHoaDon, ngayLap);
 
-                    //5. Cập nhật lại số lượng sản phẩm
-                    LoadProducts();
+
 
 
                 }
@@ -632,6 +816,9 @@ namespace DEAN_SQL
         private void btnthanhtoan_Click(object sender, EventArgs e)
         {
             ThanhToanHoaDon();
+            LoadProducts();
+            btnhuy_Click(sender, e);
+
         }
         private Bitmap GenerateInvoicePreview(string maHoaDon, string ngayLap)
         {
@@ -744,7 +931,32 @@ namespace DEAN_SQL
             frmPrintPreview previewForm = new frmPrintPreview(invoiceBitmap);
             previewForm.ShowDialog();
         }
+        private void InPhieuNhap(string mapn, string ngayLap)
+        {
+            PrintDocument printDocument = new PrintDocument();
+            printDocument.PrintPage += (sender, e) => printDocument_PrintPage(sender, e, mapn, ngayLap);
 
+            PrintDialog printDialog = new PrintDialog();
+            printDialog.Document = printDocument;
+
+            if (printDialog.ShowDialog() == DialogResult.OK)
+            {
+                printDocument.Print();
+            }
+        }
+        private void printDocument_PrintPage(object sender, PrintPageEventArgs e, string mapn, string ngayLap)
+        {
+            // Tạo hóa đơn dưới dạng Bitmap
+            Bitmap invoiceBitmap = GenerateInvoicePreview(mapn, ngayLap);
+
+            // Vẽ Bitmap lên giấy in
+            e.Graphics.DrawImage(invoiceBitmap, e.MarginBounds);
+
+            // Nếu nội dung vượt quá một trang, bạn có thể thiết lập giá trị e.HasMorePages = true
+            // để tiếp tục in trên trang kế tiếp
+            // Ví dụ:
+            // e.HasMorePages = false; // Đặt false nếu chỉ in một trang
+        }
 
         private void btnlammoi_Click(object sender, EventArgs e)
         {
@@ -863,129 +1075,6 @@ namespace DEAN_SQL
             }
         }
         NhanVien_BLL BLL_NV = new NhanVien_BLL();
-        private void printDocument_PrintPage(object sender, PrintPageEventArgs e, string maHoaDon, string ngayLap)
-        {
-            NhanVien_DTO nv = new NhanVien_DTO(user);
-            // Phông chữ tiêu đề
-            System.Drawing.Font titleFont = new System.Drawing.Font("Arial", 16, FontStyle.Bold);
-            System.Drawing.Font subTitleFont = new System.Drawing.Font("Arial", 10, FontStyle.Regular);
-
-            // Nội dung tiêu đề
-            string storeTitle = "CỬA HÀNG MẮT KÍNH";
-            string invoiceTitle = "HÓA ĐƠN THANH TOÁN";
-
-            // Tính toán chiều rộng của tiêu đề để căn giữa
-            SizeF storeTitleSize = e.Graphics.MeasureString(storeTitle, subTitleFont);
-            SizeF invoiceTitleSize = e.Graphics.MeasureString(invoiceTitle, titleFont);
-
-            // Tính tọa độ x để căn giữa tiêu đề
-            float centerXStore = (e.PageBounds.Width - storeTitleSize.Width) / 2;
-            float centerXInvoice = (e.PageBounds.Width - invoiceTitleSize.Width) / 2;
-
-            // Vẽ tiêu đề
-            e.Graphics.DrawString(storeTitle, subTitleFont, Brushes.Black, new PointF(centerXStore, 20));
-            e.Graphics.DrawString(invoiceTitle, titleFont, Brushes.Black, new PointF(centerXInvoice, 50));
-
-            // Phần còn lại không thay đổi
-            e.Graphics.DrawString($"Mã hóa đơn: {maHoaDon}", new System.Drawing.Font("Arial", 12), Brushes.Black, new PointF(50, 100));
-            // Nội dung ngày lập
-            string ngayLapString = $"Ngày lập: {ngayLap}";
-            SizeF ngayLapSize = e.Graphics.MeasureString(ngayLapString, new System.Drawing.Font("Arial", 12));
-            float rightXNgayLap = e.PageBounds.Width - ngayLapSize.Width - 50; // 50 là phần đệm bên phải
-            e.Graphics.DrawString(ngayLapString, new System.Drawing.Font("Arial", 12), Brushes.Black, new PointF(rightXNgayLap, 100));
-            e.Graphics.DrawString($"Nhân viên lập: {BLL_NV.ten_nv(nv)}", new System.Drawing.Font("Arial", 12), Brushes.Black, new PointF(50, 130));
-            e.Graphics.DrawString("Khách hàng vãng lai", new System.Drawing.Font("Arial", 12), Brushes.Black, new PointF(50, 160));
-
-            // Vẽ đường viền và tiêu đề bảng chi tiết sản phẩm
-            Pen blackPen = new Pen(System.Drawing.Color.Black, 1);
-            float startX = 50;
-            float startY = 190;
-            float columnWidth1 = 50;  // Chiều rộng cột STT
-            float columnWidth2 = 220; // Chiều rộng cột Tên Sản Phẩm
-            float columnWidth3 = 120; // Chiều rộng cột Đơn Giá
-            float columnWidth4 = 120; // Chiều rộng cột Số Lượng
-            float columnWidth5 = 120; // Chiều rộng cột Khuyến Mãi
-            float columnWidth6 = 120; // Chiều rộng cột Thành Tiền
-
-            // Vẽ các đường ngang tiêu đề bảng
-            e.Graphics.DrawRectangle(blackPen, startX, startY, columnWidth1 + columnWidth2 + columnWidth3 + columnWidth4 + columnWidth5 + columnWidth6, 30);
-            e.Graphics.DrawString("STT", new System.Drawing.Font("Arial", 12, FontStyle.Bold), Brushes.Black, new PointF(startX + 5, startY + 5));
-            e.Graphics.DrawString("Tên Sản Phẩm", new System.Drawing.Font("Arial", 12, FontStyle.Bold), Brushes.Black, new PointF(startX + columnWidth1 + 5, startY + 5));
-            e.Graphics.DrawString("Đơn Giá", new System.Drawing.Font("Arial", 12, FontStyle.Bold), Brushes.Black, new PointF(startX + columnWidth1 + columnWidth2 + 5, startY + 5));
-            e.Graphics.DrawString("Số Lượng", new System.Drawing.Font("Arial", 12, FontStyle.Bold), Brushes.Black, new PointF(startX + columnWidth1 + columnWidth2 + columnWidth3 + 5, startY + 5));
-            e.Graphics.DrawString("Khuyến Mãi", new System.Drawing.Font("Arial", 12, FontStyle.Bold), Brushes.Black, new PointF(startX + columnWidth1 + columnWidth2 + columnWidth3 + columnWidth4 + 5, startY + 5));
-            e.Graphics.DrawString("Thành Tiền", new System.Drawing.Font("Arial", 12, FontStyle.Bold), Brushes.Black, new PointF(startX + columnWidth1 + columnWidth2 + columnWidth3 + columnWidth4 + columnWidth5 + 5, startY + 5));
-
-            int stt = 1;
-            // Vẽ các đường dọc phân chia cột
-            float yPos = startY + 30;
-            foreach (ListViewItem item in lstbanhang.Items)
-            {
-                string tenSanPham = item.SubItems[1].Text;
-                string donGia = string.Format("{0:000}đ", double.Parse(item.SubItems[2].Text));
-                string soLuong = item.SubItems[4].Text;
-                string khuyenMai = item.SubItems[3].Text;
-                string thanhTien = string.Format("{0:000}đ", double.Parse(item.SubItems[5].Text));
-
-                // Vẽ đường viền cho từng dòng chi tiết
-                e.Graphics.DrawRectangle(blackPen, startX, yPos, columnWidth1 + columnWidth2 + columnWidth3 + columnWidth4 + columnWidth5 + columnWidth6, 30);
-                e.Graphics.DrawString(stt.ToString(), new System.Drawing.Font("Arial", 12), Brushes.Black, new PointF(startX + 5, yPos + 5));
-                e.Graphics.DrawString(tenSanPham, new System.Drawing.Font("Arial", 12), Brushes.Black, new PointF(startX + columnWidth1 + 5, yPos + 5));
-                e.Graphics.DrawString(donGia, new System.Drawing.Font("Arial", 12), Brushes.Black, new PointF(startX + columnWidth1 + columnWidth2 + 5, yPos + 5));
-                e.Graphics.DrawString(soLuong, new System.Drawing.Font("Arial", 12), Brushes.Black, new PointF(startX + columnWidth1 + columnWidth2 + columnWidth3 + 5, yPos + 5));
-                e.Graphics.DrawString(khuyenMai, new System.Drawing.Font("Arial", 12), Brushes.Black, new PointF(startX + columnWidth1 + columnWidth2 + columnWidth3 + columnWidth4 + 5, yPos + 5));
-                e.Graphics.DrawString(thanhTien, new System.Drawing.Font("Arial", 12), Brushes.Black, new PointF(startX + columnWidth1 + columnWidth2 + columnWidth3 + columnWidth4 + columnWidth5 + 5, yPos + 5));
-
-                // Vẽ các đường dọc
-                e.Graphics.DrawLine(blackPen, startX + columnWidth1, startY, startX + columnWidth1, yPos + 30);
-                e.Graphics.DrawLine(blackPen, startX + columnWidth1 + columnWidth2, startY, startX + columnWidth1 + columnWidth2, yPos + 30);
-                e.Graphics.DrawLine(blackPen, startX + columnWidth1 + columnWidth2 + columnWidth3, startY, startX + columnWidth1 + columnWidth2 + columnWidth3, yPos + 30);
-                e.Graphics.DrawLine(blackPen, startX + columnWidth1 + columnWidth2 + columnWidth3 + columnWidth4, startY, startX + columnWidth1 + columnWidth2 + columnWidth3 + columnWidth4, yPos + 30);
-                e.Graphics.DrawLine(blackPen, startX + columnWidth1 + columnWidth2 + columnWidth3 + columnWidth4 + columnWidth5, startY, startX + columnWidth1 + columnWidth2 + columnWidth3 + columnWidth4 + columnWidth5, yPos + 30);
-
-                yPos += 30;
-                stt++;
-            }
-
-            // Tổng kết hóa đơn
-            yPos += 20;
-            // Tính toán vị trí x để căn phải cho Tổng Tiền
-            string totalString = $"Tổng Tiền: {total:000}đ";
-            SizeF totalSize = e.Graphics.MeasureString(totalString, new System.Drawing.Font("Arial", 12));
-            float rightX = e.PageBounds.Width - totalSize.Width - 50; // 50 là phần đệm bên phải
-            e.Graphics.DrawString(totalString, new System.Drawing.Font("Arial", 12), Brushes.Black, new PointF(rightX, yPos));
-
-            // Tính toán vị trí x để căn phải cho Tiền khuyến mãi
-            string discount = $"Tiền Khyến Mãi: {float.Parse(txtkhuyenmai.Text):N0}đ";
-            SizeF discountsize = e.Graphics.MeasureString(discount, new System.Drawing.Font("Arial", 12));
-            rightX = e.PageBounds.Width - discountsize.Width - 50;
-            e.Graphics.DrawString(discount, new System.Drawing.Font("Arial", 12), Brushes.Black, new PointF(rightX, yPos + 30));
-
-            // Tính toán vị trí x để căn phải cho Thanh Toán
-            string pay = $"Thanh toán: {float.Parse(txtthanhtoan.Text):N0}đ";
-            SizeF paysize = e.Graphics.MeasureString(pay, new System.Drawing.Font("Arial", 12));
-            rightX = e.PageBounds.Width - paysize.Width - 50;
-            e.Graphics.DrawString(pay, new System.Drawing.Font("Arial", 12), Brushes.Black, new PointF(rightX, yPos + 60));
-
-            // Tính toán vị trí x để căn phải cho Tiền Khách Trả
-            string tienKhachTraString = $"Tiền Khách Trả: {float.Parse(txttienkhachtra.Text):N0}đ";
-            SizeF tienKhachTraSize = e.Graphics.MeasureString(tienKhachTraString, new System.Drawing.Font("Arial", 12));
-            rightX = e.PageBounds.Width - tienKhachTraSize.Width - 50;
-            e.Graphics.DrawString(tienKhachTraString, new System.Drawing.Font("Arial", 12), Brushes.Black, new PointF(rightX, yPos + 90));
-
-            // Tính toán vị trí x để căn phải cho Tiền Thừa
-            string tienThuaString = $"Tiền Thừa: {float.Parse(txttienkhachtra.Text) - float.Parse(txtthanhtoan.Text):N0}đ";
-            SizeF tienThuaSize = e.Graphics.MeasureString(tienThuaString, new System.Drawing.Font("Arial", 12));
-            rightX = e.PageBounds.Width - tienThuaSize.Width - 50;
-            e.Graphics.DrawString(tienThuaString, new System.Drawing.Font("Arial", 12), Brushes.Black, new PointF(rightX, yPos + 120));
-
-            // Lời cảm ơn căn giữa
-            string thankYouText = "Cảm ơn quý khách đã mua sắm tại cửa hàng!";
-            SizeF textSize = e.Graphics.MeasureString(thankYouText, new System.Drawing.Font("Arial", 11, FontStyle.Italic));
-            float centerX = (e.PageBounds.Width - textSize.Width) / 2;
-            e.Graphics.DrawString(thankYouText, new System.Drawing.Font("Arial", 12, FontStyle.Italic), Brushes.Black, new PointF(centerX, yPos + 140));
-        }
-
 
 
 
